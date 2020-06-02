@@ -1,0 +1,21 @@
+{
+	"name": "photo",
+	"description": "photo",
+	"version": "1.0.0",
+	"dependencies": {
+		"body-parser": "^1.19.0",
+		"connect-mongo": "^3.1.2",
+		"cookie-parser": "^1.4.4",
+		"cookies-parser": "*",
+		"ejs": "*",
+		"express": "*",
+		"express-session": "^1.17.0",
+		"formidable": "latest",
+		"mongodb": "3.1",
+		"session": "*"
+	},
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engine": "*"
+}
